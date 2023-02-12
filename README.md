@@ -2,7 +2,7 @@
 
 To run the project
 ### 1. Clone this project
-`git clone https://github.com/ib-sundeep/netflix-react-clone.git`
+`git clone git@github.com:smangaraj28/netflix-base.git`
 
 ### 2. Install dependencies of project
 
