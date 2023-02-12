@@ -6,22 +6,20 @@
   height: 400px;
   transform: translate(-50%, -50%);
   z-index: 10;
-  background-color: #222222;
+  background-color: #222;
   border-radius: 4px;
-
-  &__close {
-    position: absolute;
-    right: -30px;
-    top: 0;
-    background-color: transparent !important;
-    border: none !important;
-    outline: none !important;
-    color: #ffffff;
-    font-size: 24px;
-    cursor: pointer;
-  }
 }
-
+.trailer-modal__close {
+  position: absolute;
+  right: -30px;
+  top: 0;
+  background-color: transparent !important;
+  border: none !important;
+  outline: none !important;
+  color: #fff;
+  font-size: 24px;
+  cursor: pointer;
+}
 .trailer-modal-backdrop {
   position: fixed;
   width: 100%;
